@@ -1,5 +1,8 @@
 # Docker
 <style>
+    h1 a {
+        display: none;
+    }
     button {
         background-color: transparent;
         padding: 0.5rem 1rem;

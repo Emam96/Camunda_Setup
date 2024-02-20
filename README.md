@@ -1,8 +1,8 @@
-  <head>
-  <link rel="shortcut icon" href="file:///C:/Users/STUDENT/Desktop/WhatsApp%20Image%202021-08-10%20at%209.27.56%20PM.jpeg" type="image/x-icon">
- </head>
 
 <style>
+    h1 a {
+        display: none;
+    }
     img {
          display: block;
          margin : auto auto;

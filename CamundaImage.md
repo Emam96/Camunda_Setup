@@ -1,4 +1,7 @@
 <style>
+    h1 a {
+        display: none;
+    }
     button {
         background-color: transparent;
         padding: 0.5rem 1rem;
@@ -65,17 +68,17 @@ You should see something like this when the process finishes
 
 make sure that all the containers are running, you can view each of the application on these ports: 
 
-* Operate: http://localhost:8081
-* Tasklist: http://localhost:8082
-* Optimize: http://localhost:8083
-* Identity: http://localhost:8084
-* Elasticsearch: http://localhost:9200
+* Operate: [http://localhost:8081](http://localhost:8081)
+* Tasklist: [http://localhost:8082](http://localhost:8082)
+* Optimize: [http://localhost:8083](http://localhost:8083)
+* Identity: [http://localhost:8084](http://localhost:8084)
+* Elasticsearch: [http://localhost:9200](http://localhost:9200)
 
 
 &nbsp;
 
 &nbsp;
-<button><a href="https://emam96.github.io/Camunda_Setup/">Back</a></button>
+<button><a href="https://emam96.github.io/Camunda_Setup/Docker">Back</a></button>
 &nbsp;
 &nbsp;
 <button><a href="https://emam96.github.io/Camunda_Setup/CamundaImage">Next</a></button>
