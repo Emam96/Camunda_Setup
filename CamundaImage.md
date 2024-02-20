@@ -67,7 +67,7 @@ You should see something like this when the process finishes
 
 &nbsp;
 
-make sure that all the containers are running, you can view each of the application on these ports:
+Make sure that all the containers are running, you can view each of the application on these ports:
 
 * Operate: [http://localhost:8081](http://localhost:8081)
 * Tasklist: [http://localhost:8082](http://localhost:8082)

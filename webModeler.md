@@ -21,7 +21,7 @@
 </style>
 # Download the web modeler
 
-Camunda's web modeler uses BPMN diagrams to visually outline the structure and flow of a process, this is an advantage as it translates the actual flow to an executable logic, which enhances the communication between business and technical staff
+Camunda's web modeler uses BPMN diagrams to visually outline the structure and flow of a process, this is an advantage as it translates the actual flow to an executable logic, which enhances the communication between business and technical staff.
 
 <img src = "https://cdn-icons-png.freepik.com/512/11905/11905899.png">
 
@@ -35,7 +35,7 @@ You need to connect the modeler to the local setup, it's done by changing the de
 
 &nbsp;
 
-This way, you will push your work to your running Docker image so you can run and test your processes
+This way, you will push your work to your running Docker image so you can run and test your processes.
 
 &nbsp;
 
@@ -43,4 +43,4 @@ This way, you will push your work to your running Docker image so you can run an
 <button><a href="https://emam96.github.io/Camunda_Setup/CamundaImage">Back</a></button>
 &nbsp;
 &nbsp;
-<button><a href="https://emam96.github.io/Camunda_Setup/CamundaImage">Next</a></button>
+<button><a href="https://emam96.github.io/Camunda_Setup/Connectors">Next</a></button>
