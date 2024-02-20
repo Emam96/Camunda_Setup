@@ -27,9 +27,9 @@ Camunda's web modeler uses BPMN diagrams to visually outline the structure and f
 
 We can download the modeler from [here](https://camunda.com/download/modeler/) it's a compressed folder that includes **Camunda Modeler.exe** by clicking on it, you will launch the modeler. 
 
-You can create new BPMN diagrams and DMN diagrams, save it and deploy it to your local setup and run it from the modeler using test data, or re-run them from Operate app. 
+You can create new BPMN diagrams and DMN diagrams, save them deploy them to your local setup, and run them from the modeler using test data, or re-run them from the Operate app. 
 
-You need to connect the modeler to the local setup, it's done by changing the deplyement settings as follow: 
+You need to connect the modeler to the local setup, it's done by changing the deployment settings as follows:  
 
 <img src = "deploy.png">
 
