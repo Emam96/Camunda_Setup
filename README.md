@@ -1,6 +1,6 @@
 # Camunda Self-managed Local Setup
 
- ![Avertra](https://avertra.com/wp-content/uploads/2022/01/avertra-white-logo.png) &nbsp; &nbsp; ![Camunda](https://0097f9ca.flyingcdn.com/wp-content/uploads/2020/05/logo-camunda-black.svg)
+ ![Camunda](https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png)
 
 This is a step by step guied to setup Camunda 8 self-managed local setup on your machine, you need to install some stuff before you start Orchestrate processes.
 
