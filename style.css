@@ -1,4 +1,5 @@
 button {
+    border-radius: 5px;
     background-color: transparent;
     cursor: pointer;
     border: thin black;
