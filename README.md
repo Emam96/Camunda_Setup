@@ -5,7 +5,7 @@
     }
     img {
          display: block;
-         margin : auto auto;
+         margin: auto auto;
          width: 300px
     }
     button {

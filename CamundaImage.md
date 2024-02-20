@@ -14,15 +14,16 @@
         color: black;
     }
 </style>
+
 # Setup Camunda 8 self managed Docker image from Github
 
-After downlaoding and insatlling Docker Desktop, you will downlaod and run a Docker image for Camunda, it will include all Camunda's components 
+After downlaoding and insatlling Docker Desktop, you will downlaod and run a Docker image for Camunda, it will include all Camunda's components
 
 > Docker images are read-only templates that contain instructions for creating a container. A Docker image is a snapshot or blueprint of the libraries and dependencies required inside a container for an application to run.
 
 Camunda's [Github repository](https://github.com/camunda/camunda-platform) includes everything we need to setup our local environment, we will downlaod the whole repo to our machines, <br>
 
-By clicking on the code button <br> 
+By clicking on the code button <br>
 
 <img src = "code.png">
 
@@ -46,7 +47,7 @@ On your Terminal, if you want to use all Camunda's components, as the full envir
 * Keycloak
 * PostgreSQL
 
-Copy this command and excute it in your terminal 
+Copy this command and excute it in your terminal
 
 ```
 docker compose up -d
@@ -66,14 +67,13 @@ You should see something like this when the process finishes
 
 &nbsp;
 
-make sure that all the containers are running, you can view each of the application on these ports: 
+make sure that all the containers are running, you can view each of the application on these ports:
 
 * Operate: [http://localhost:8081](http://localhost:8081)
 * Tasklist: [http://localhost:8082](http://localhost:8082)
 * Optimize: [http://localhost:8083](http://localhost:8083)
 * Identity: [http://localhost:8084](http://localhost:8084)
 * Elasticsearch: [http://localhost:9200](http://localhost:9200)
-
 
 &nbsp;
 
@@ -82,4 +82,3 @@ make sure that all the containers are running, you can view each of the applicat
 &nbsp;
 &nbsp;
 <button><a href="https://emam96.github.io/Camunda_Setup/webModeler">Next</a></button>
-
