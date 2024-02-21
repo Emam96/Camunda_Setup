@@ -40,7 +40,7 @@ This way, you will push your work to your running Docker image so you can run an
 &nbsp;
 
 &nbsp;
-<button><a href="https://emam96.github.io/Camunda_Setup/CamundaImage">Back</a></button>
+<button><a href="https://rb.gy/8p0a25">Back</a></button>
 &nbsp;
 &nbsp;
-<button><a href="https://emam96.github.io/Camunda_Setup/Connectors">Next</a></button>
+<button><a href="https://rb.gy/lyc7ei">Next</a></button>
