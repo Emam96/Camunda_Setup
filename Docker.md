@@ -28,7 +28,7 @@ Also note that by installing Docker desktop, you will integrate Docker with your
 &nbsp;
 
 &nbsp;
-<button><a href="https://rb.gy/w7j3kt">Back</a></button>
+<button><a href="https://emam96.github.io/Camunda_Setup/">Back</a></button>
 &nbsp;
 &nbsp;
-<button><a href="https://rb.gy/8p0a25">Next</a></button>
+<button><a href="https://emam96.github.io/Camunda_Setup/CamundaImage">Next</a></button>
