@@ -18,8 +18,8 @@
 </style>
 You can download Docker [here](https://docs.docker.com/desktop/install/windows-install/ "The #1 containerization software for developers and teams") you will find everything you need to install the software on your machine.
 You should end up with something like this
-![Camunda](
-[https://i.stack.imgur.com/P0VF2.png](https://miro.medium.com/v2/resize:fit:1400/0*fVmLvq6Nnvo6QNCW.png))
+
+![Camunda](https://miro.medium.com/v2/resize:fit:1400/0*fVmLvq6Nnvo6QNCW.png)
 
 Also note that by installing Docker desktop, you will integrate Docker with your machine, this will enable you to use Docker commands on your Windows terminal.
 
